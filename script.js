@@ -27,4 +27,4 @@ const firstNonRepeatingChar = findFirstNonRepeatingChar(inputString);
 
 // Show output via alert()
 
-  alert( ${firstNonRepeatingChar});
+  alert( `${firstNonRepeatingChar}`);
