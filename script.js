@@ -26,8 +26,5 @@ const inputString = prompt("Enter a string:");
 const firstNonRepeatingChar = findFirstNonRepeatingChar(inputString);
 
 // Show output via alert()
-if (firstNonRepeatingChar) {
-  alert(`The first non-repeating character is: ${firstNonRepeatingChar}`);
-} else {
-  alert("No non-repeating character found.");
-}
+
+  alert( ${firstNonRepeatingChar});
